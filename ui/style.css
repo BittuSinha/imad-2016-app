@@ -1,22 +1,38 @@
-body {
-    font-family: verdana;
-    background-color: lightgrey;
-    margin-top: 75px;
+div{
+     border-radius: 5px;
 }
 
-.center {
-    text-align: center;
+#header{
+    z-index: 1;
+    position: fixed;
+    height: 60px;
+    width: 1350px;
+    background-color: #2c3e50;
+    
 }
 
-.text-big {
-    font-size: 300%;
+.right{
+     position: relative;
+     height: 400px;
+     width: 1120px;
+     float: right;
+     background-color: #AED6F1;
+     margin-top: 70px;
 }
 
-.bold {
-    font-weight: bold;
+.left{
+     position: relative;
+     height: 400px;
+     width: 200px;
+     background-color: #E74C3C;
+     float: left;
+     margin-top: 10px;
 }
 
-.img-medium {
-    height: 200px;
+#footer{
+     position: relative;
+     height: 60px;
+     width: 1350px;
+     background-color: #2c3e50;
+     clear: both;
 }
-
