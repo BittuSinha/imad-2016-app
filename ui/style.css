@@ -2,68 +2,8 @@ body {
     background-image: url("http://www.pixeden.com/media/k2/galleries/220/003-wood-melamine-subttle-pattern-background-pat.jpg");
 }
 
-div {
-	border-radius: 5px;
-}
-
-#header {
-	z-index: 1;
-	position: fixed;
-	width: 97.5%;
-	margin-top: -20px;
-	height: 60px;
-	margin-bottom: 10px;
-}
-
-#name {
-	float:left;
-	margin-left: 5px;
-	padding-top: 5px;
-	font-size: 50px;
-	font-family: Verdana, sans-serif;
-	color: #17202A;
-}
-
-#email{
-	float:right;
-	margin-right: 5px;
-	padding-top: 5px;
-	font-size: 30px;
-	font-family: Verdana, sans-serif;
-	color: #17202A;
-}
-
-li {
-	list-style-type: square;
-}
 
 a:hover {
 	font-weight: bold;
 	color: #17202A;
-}
-
-.left {
-	position: relative;
-	float: left;
-	margin-top: 50px;
-	width: 16%;
-	height: 600px;
-	color: #17202A;
-	margin-bottom: 10px;
-}
-
-#footer {
-    z-index: -1;
-	position: relative;
-	height: 50px;
-	clear: both;
-	font-family: Verdana, sans-serif;
-	font-size: 30px;
-	text-align: center;
-	color: #17202A;
-}
-
-#footer p {
-	position: relative;
-	padding-top: 15px;
 }
