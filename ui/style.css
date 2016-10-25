@@ -33,20 +33,6 @@ div {
 	color: #D0D3D4;
 }
 
-h4 {
-	margin-left: 5px;
-	margin-bottom: 15px;
-	font-family: Verdana, sans-serif;
-}
-
-.right p {
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: -10px;
-	font-family: Garamond, serif;
-	color: #D0D3D4;
-}
-
 li {
 	list-style-type: square;
 }
@@ -64,16 +50,6 @@ a:hover {
 	height: 600px;
 	color: #D0D3D4;
 	margin-bottom: 10px;
-}
-
-.right {
-	position: relative;
-	float: right;
-	margin-top: 50px;
-	width: 82%;
-	height: 600px;
-	margin-bottom: 10px;
-    color: #D0D3D4;	
 }
 
 #footer {
