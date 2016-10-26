@@ -9,3 +9,17 @@ h6 {
     color: blue;
 }
 
+#socialicons {
+    position: fixed;
+    top: 10px;
+    left: 60%;
+}
+
+ul {
+    list-style-type: square;
+    position: fixed;
+}
+
+li {
+    display: inline;
+}
